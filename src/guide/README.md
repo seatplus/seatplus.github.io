@@ -20,32 +20,34 @@ corporation or alliance.
 
 ## Features
 
-- Scoped Access - support multiple esi-scopes settings, use minimal
-  scopes until enlistment
+- [Scoped Access](../feature/README.md#login-scopes) - support multiple esi-scopes
+  settings, use minimal scopes until enlistment
 - Support of Recruiter Role - new user-friendly role based access
   control system
 - allow recruiters to access all data from characters in alliance except
   one
+- [Work with unknown location](../feature/README.md#unknown-locations) - suggest locations which can not be
+  resolved to filter f.e. assets
 - Support manual, automatic, opt-in and on-request Roles
   - Permissions and roles do not require an asynchronous task to
     complete. Every permission is applied immediately.
 - Full ESI-Dependency - no more SDE Issues
-- Recruiter specific watchlist and views - only show assets in a
+- [Recruiter specific watchlist and views](../feature/README.md#applications) - only show assets in a
   specific region or system
-- Consume in-game alliance and corporation standings to highlight
+- [Consume in-game alliance and corporation standings](../feature/README.md#character-contacts) to highlight
   character contact standings that differ.
 
 ### ESI Categories covered
 
 - Character
-  - Assets
-  - Contacts
-  - Contracts
-  - Wallet Journals
-  - Wallet Transactions
+  - [Assets](../feature/README.md#applications)
+  - [Contacts](../feature/README.md#character-contacts)
+  - [Contracts](../feature/README.md#character-contracts)
+  - [Wallet Journals](../feature/README.md#character-wallets)
+  - [Wallet Transactions](../feature/README.md#character-wallets)
 
 - Corporation
-  - Member Tracking
+  - [Member Tracking](../feature/README.md#corporation-member-tracking)
 
 ::: details Corporation endpoints for assets, contacts and contracts are
 90% done, yet front-end is missing. Wallet journal and wallet
