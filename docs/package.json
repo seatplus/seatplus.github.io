@@ -1,0 +1,20 @@
+{
+  "name": "seatplus",
+  "version": "0.0.1",
+  "description": "Flexible EVE Online API with the intend of corporation management and recruitment.",
+  "main": "index.js",
+  "authors": {
+    "name": "Felix Huber",
+    "email": "felix.a.huber@gmx.net"
+  },
+  "repository": "cd seatplus/seatplus/seatplus",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.8.2",
+    "vuepress": "^1.5.3"
+  }
+}
