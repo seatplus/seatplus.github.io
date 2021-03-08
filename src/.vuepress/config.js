@@ -27,10 +27,10 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
-    editLinks: false,
+    repo: 'seatplus/seatplus.github.io',
+    editLinks: true,
     docsDir: '',
-    editLinkText: '',
+    editLinkText: 'Help us improve this page!',
     lastUpdated: false,
     nav: [
       {
@@ -42,7 +42,7 @@ module.exports = {
         link: '/feature/'
       },
       {
-        text: 'GitHUb',
+        text: 'GitHub',
         link: 'https://github.com/seatplus/seatplus'
       }
     ],

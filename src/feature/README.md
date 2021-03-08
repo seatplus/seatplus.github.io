@@ -42,7 +42,7 @@ the character in the character specific categories:
 
 ![user-application](./images/user-application.png)
 
-![recruitment-watchlist](images/recruitment-watchlist.png)
+![recruitment-watchlist](./images/recruitment-watchlist.png)
 
 ## Unknown Locations
 

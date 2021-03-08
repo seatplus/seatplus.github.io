@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://github.com/seatplus/seatplus.github.io/raw/master/src/seat_plus_logo.svg.png
 tagline: Flexible EVE Online API with the intent of corporation management and recruitment.
 actionText: Get started →
 actionLink: /guide/
