@@ -29,7 +29,7 @@ module.exports = {
   themeConfig: {
     repo: 'seatplus/seatplus.github.io',
     editLinks: true,
-    docsDir: '',
+    docsDir: 'src',
     editLinkText: 'Help us improve this page!',
     lastUpdated: false,
     nav: [
@@ -40,10 +40,6 @@ module.exports = {
       {
         text: 'Features',
         link: '/feature/'
-      },
-      {
-        text: 'GitHub',
-        link: 'https://github.com/seatplus/seatplus'
       }
     ],
     sidebar: {
