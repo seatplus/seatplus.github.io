@@ -51,10 +51,11 @@ corporation or alliance.
 
 ::: details Corporation endpoints for assets, contacts and contracts are
 90% done, yet front-end is missing. Wallet journal and wallet
-transactions are nearly 80% done missing the FE as well. :::
+transactions are nearly 80% done missing the FE as well.  
+:::
 
 
-## Broadcast for help
+## Broadcast for support
 
 seatplus has and will be a hobby project of
 [Herpaderp Aldent](https://evewho.com/character/95725047), thus help in
